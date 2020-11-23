@@ -4,10 +4,10 @@ Clean Aegisub dialog text(s). when you try to translate a subtitle file. just du
 ***
 
 ## How to install
-+ **Unix(Linux, MacOs)**: copy plugin file to `/home/$user/.aegisub/automation/autoload` Directory.
++ **Unix(Linux, MacOs)**: copy plugin file to **`/home/$user/.aegisub/automation/autoload`** Directory.
 
-   _If there is no `automation/autoload` Directory(s), create that._
+   _If there is no **`automation/autoload`** Directory(s), create that._
 
-+ **Windows**: copy file to `$install_path/automation/autoload` Directory. 
++ **Windows**: copy file to **`$install_path/automation/autoload`** Directory. 
 
 **_If Aegisub stil open, close than and reopen program to reload plugin_**
