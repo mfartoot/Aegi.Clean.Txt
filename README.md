@@ -10,4 +10,4 @@ Clean Aegisub dialog text(s). when you try to translate a subtitle file. just du
 
 + **Windows**: copy file to **`$install_path/automation/autoload`** Directory. 
 
-**_If Aegisub stil open, close than and reopen program to reload plugin_**
+**_If Aegisub still open, close than and reopen program to reload plugin_**
